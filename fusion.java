@@ -25,6 +25,7 @@ public class fusion {
 	}
 
 	return fusion;
+		
 }
 	
 	
