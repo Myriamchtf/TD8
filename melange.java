@@ -44,11 +44,13 @@ public class melange {
 	
 	/*
 	 * Question 4 : comme set(i) , mélange compléxité O(n²) 
+	 * 
 	 * Collections.shuffle(mylist, new Random());
 	 * "elle copie d'abord la liste dans un tableau, 
 	 * puis mélange la copie du tableau et 
-	 * recopie enfin le tableau dans la liste " donc compléxité O(2n)
+	 * recopie enfin le tableau dans la liste " 
+	 * <Iterator> la compléxité est O(n)
+	 * donc compléxité O(2n) !! 
 	 * https://www.geeksforgeeks.org/collections-shuffle-method-in-java-with-examples/
 	 */
-
 }
